@@ -1,0 +1,13 @@
+{
+  "name": "crypto-youtube-dashboard-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "仮想通貨YouTubeネタ ダッシュボード（毎日自動更新の静的サイト）",
+  "scripts": {
+    "build": "node generate.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
